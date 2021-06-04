@@ -51,6 +51,9 @@ Faire une pull request sur ce repo sur le modèle suivant :
 
 <lien vers un blog ou page d'accueil (si dispo)>
 
+### Anthony Hoareau
+My contest est une platforme de concours, où on peut créer son proprpe concours (photo, map) ou participer.
+lien github: https://github.com/AnthonyH-ecv/my-contest
 
 
 ### Brandon Leininger
